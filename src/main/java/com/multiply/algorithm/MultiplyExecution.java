@@ -1,6 +1,6 @@
-package com.concurrency.algorithm;
+package com.multiply.algorithm;
 
-import com.concurrency.exceptions.WrongMatrixSizeException;
+import com.multiply.exceptions.WrongMatrixSizeException;
 
 import java.util.Random;
 import java.util.concurrent.ExecutorService;

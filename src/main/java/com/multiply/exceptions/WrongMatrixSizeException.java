@@ -1,4 +1,4 @@
-package com.concurrency.exceptions;
+package com.multiply.exceptions;
 
 public class WrongMatrixSizeException extends Exception {
 

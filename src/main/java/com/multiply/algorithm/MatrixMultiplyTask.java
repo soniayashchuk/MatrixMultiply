@@ -1,4 +1,4 @@
-package com.concurrency.algorithm;
+package com.multiply.algorithm;
 
 import java.util.ArrayList;
 import java.util.List;

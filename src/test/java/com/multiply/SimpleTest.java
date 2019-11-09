@@ -1,7 +1,7 @@
-package com.concurrency;
+package com.multiply;
 
-import com.concurrency.algorithm.MultiplyExecution;
-import com.concurrency.exceptions.WrongMatrixSizeException;
+import com.multiply.algorithm.MultiplyExecution;
+import com.multiply.exceptions.WrongMatrixSizeException;
 import org.junit.Assert;
 import org.junit.Test;
 
